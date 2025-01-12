@@ -24,9 +24,9 @@ CovalentPlan combines the power of artificial intelligence with intuitive roadma
 
 ## Plans and Pricing
 
-- **Starter** ($19/month): Perfect for individual roadmappers
-- **Business** ($49/month): Ideal for small collaborative teams
-- **Professional** ($99/month): Built for scaling teams
+- **Starter** ($0/month): Perfect for individual roadmappers
+- **Business** ($29/month): Ideal for small collaborative teams (1-5)
+- **Professional** ($79/month): Built for scaling teams (6-20)
 - **Enterprise**: Custom solutions for organizations
 
 ## Technology Stack
